@@ -5,6 +5,6 @@ import boto3
     ImageId='ami-001843b876406202a',
     InstanceType='t2.micro',
     KeyName='jenkin',
-    MaxCount=1,
+    MaxCount=2,
     MinCount=1
 )
