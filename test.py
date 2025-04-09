@@ -4,7 +4,7 @@ aws console
   response = client.run_instances(
     ImageId='ami-001843b876406202a',
     InstanceType='t2.micro',
-    KeyName='jenkin',
+    KeyName='Rohit',
     MaxCount=2,
     MinCount=1
 )
